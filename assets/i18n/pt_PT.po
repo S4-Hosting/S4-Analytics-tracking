@@ -1,0 +1,131 @@
+# Copyright (C) 2013-2017  Sergio Santos  (email : ipse@sergiosantos.me)
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tracking code for Matomo, by Sergio Santos\n"
+"Report-Msgid-Bugs-To: https://www.sergiosantos.me\n"
+"POT-Creation-Date: 2019-02-12 14:37+0000\n"
+"PO-Revision-Date: 2020-03-12 06:49+0100\n"
+"Last-Translator: Sergio Santos <ipse@sergiosantos.me>\n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: views/backend/settings.class.php:32 views/backend/settings.class.php:71
+msgid "Settings for tracking code for Matomo"
+msgstr "Configurações do código de rastreamento para Matomo"
+
+#: views/backend/settings.class.php:32
+msgid "Tracking code for Matomo"
+msgstr "Código de rastreamento para Matomo"
+
+#: views/backend/settings.class.php:35
+msgid "Enable"
+msgstr "Ativar"
+
+#: views/backend/settings.class.php:36
+msgid "Address"
+msgstr "Endereço"
+
+#: views/backend/settings.class.php:37
+msgid "SSL compatibility"
+msgstr "Compatibilidade SSL"
+
+#: views/backend/settings.class.php:38
+msgid "Site Id"
+msgstr "Id do site"
+
+#: views/backend/settings.class.php:39
+msgid "Enable cookies"
+msgstr "Ativar cookies"
+
+#: views/backend/settings.class.php:40
+msgid "Log usernames"
+msgstr "Rastrear nomes de utilizador"
+
+#: views/backend/settings.class.php:41
+msgid "Use old username logging method"
+msgstr "Usar método antigo para rastrear nomes de utilizador"
+
+#: views/backend/settings.class.php:42
+msgid "Heartbeat timer"
+msgstr "Temporizador Heartbeat"
+
+#: views/backend/settings.class.php:56
+msgid "Settings"
+msgstr "Configurações"
+
+#: views/backend/settings.class.php:98
+msgid "Enable tracking code for Matomo?"
+msgstr "Ativar o código de rastreamento para Matomo?"
+
+#: views/backend/settings.class.php:104
+#, php-format
+msgid "The address of your Matomo install, without protocol (e.g. %s/matomo)."
+msgstr "O endereço da sua instalação do Matomo, sem protocolo (ex. %s/matomo)."
+
+#: views/backend/settings.class.php:110
+msgid "Does your Matomo install support SSL access? (HTTP<b>S</b>://)"
+msgstr "A sua instalação do Matomo suporta acesso SSL? (HTTP<b>S</b>://)"
+
+#: views/backend/settings.class.php:116
+msgid "The id of this site on your Matomo install."
+msgstr "A Id deste site na sua instalação do Matomo."
+
+#: views/backend/settings.class.php:122
+msgid ""
+"Do you want Matomo to use cookies?<br/>(Disabling cookies will make some "
+"data less accurate.)"
+msgstr ""
+"Deseja que o Matomo use cookies?<br/>(Desativar as cookies tornará alguns "
+"dados menos exatos.)"
+
+#: views/backend/settings.class.php:128
+msgid "Do you want Matomo to log the usernames of logged in users?"
+msgstr ""
+"Deseja que o Matomo rastreie os nomes de utilizador de utilizadores logados?"
+
+#: views/backend/settings.class.php:134
+msgid ""
+"Do you want to use the old method for logging usernames?<br/>(Will use "
+"SetCustomVariable instead of SetUserID. Enable this only if you need to keep "
+"backward compatibility with previously tracked data.)"
+msgstr ""
+"Deseja usar o método antigo para rastrear nomes de utilizador?<br/>(Irá usar "
+"SetCustomVariable em vez de SetUserID. Ative isto apenas se precisar de "
+"manter a retrocompatibilidade com informação previamente rastreada.)"
+
+#: views/backend/settings.class.php:140
+msgid ""
+"The time between heartbeats, in seconds. Set 0 to disable.<br/>(If you're "
+"unsure of what this is, it's better to leave it disabled.)"
+msgstr ""
+"O tempo entre heartbeats, em segundos. Defina 0 para desativar.<br/>(Se "
+"estiver incerto de o que isto é, é melhor deixá-lo desativado.)"
+
+#: views/backend/settings.class.php:161
+msgid ""
+"The \"Address\" seems invalid.<br />Please check this field and try again."
+msgstr ""
+"O \"Endereço\" parece inválido.<br />Por favor verifique este campo e tente "
+"novamente."
+
+#: views/backend/settings.class.php:164
+msgid ""
+"\"Site Id\" must be an integer number greater than zero.<br />Please check "
+"this field and try again."
+msgstr ""
+"O \"Id do site\" deve ser um número inteiro maior que zero.<br />Por favor "
+"verifique este campo e tente novamente."
+
+#: views/backend/settings.class.php:167
+msgid ""
+"\"Heartbeat timer\" must be an integer number equal to or greater than zero."
+"<br />Please check this field and try again."
+msgstr ""
+"O \"Temporizador Heartbeat\" deve ser um número inteiro maior que ou igual a "
+"zero.<br />Por favor verifique este campo e tente novamente."
