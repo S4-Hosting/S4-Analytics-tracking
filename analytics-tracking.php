@@ -4,12 +4,12 @@
  */
 
 /*
-Plugin Name: Tracking code for Matomo, by Sergio Santos
-Plugin URI: https://www.sergiosantos.me/
-Description: Add a tracking code for Matomo to your WordPress website.
-Version: 1.1.3
-Author: Sergio Santos
-Author URI: https://www.sergiosantos.me/
+Plugin Name: S4 - Enable Matomo
+Plugin URI: https://s-4.host/
+Description: PLEASE DO NOT DISABLE - Connects your site to our Matomo Analytics server.
+Version: 1.1
+Author: S4, based on work by Sergio Santos
+Author URI: https://s-4.host
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: piwik-tracking-by-mente-binaria
