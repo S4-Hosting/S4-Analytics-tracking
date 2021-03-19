@@ -18,11 +18,11 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 
 #: views/backend/settings.class.php:32 views/backend/settings.class.php:71
-msgid "Settings for tracking code for Matomo"
+msgid "Analytics tracking settings"
 msgstr ""
 
 #: views/backend/settings.class.php:32
-msgid "Tracking code for Matomo"
+msgid "Analytics"
 msgstr ""
 
 #: views/backend/settings.class.php:35
