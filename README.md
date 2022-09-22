@@ -4,4 +4,6 @@ WordPress plugin to implement a tracking code for Matomo analytics.
 
 The plugin is designed to be light, fast, basic and pretty optionless, it's a set and forget kind of solution. There are other alternatives out there if you want them to do something more advanced or have lots of options to play with. 
 
+Tested up to WordPress 6.2 and Matomo 4.11.0
+
 It's based on the 'Tracking code for Matomo, by Sergio Santos' WP plugin. 
